@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <!-- 로고 자리 -->
   # About Me
 Hi! I'm Junior Full Stack Developer Lee Seoyeon. 
-<br/> You can see my portfolio <a href="https://seoyeondev.netlify.app/" target="_blank">here</a>.
+<!-- <br/> You can see my portfolio <a href="https://seoyeondev.netlify.app/" target="_blank">here</a>. -->
 <br/> Feel free to connect with me on <a href="https://skylarcoding.tistory.com/" target="_blank"> My Blog </a> or via <a href="mailto:skylarlee1003@gmail.com" target="_blank">
 Mail </a> 
 
